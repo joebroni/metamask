@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MetaMask Interview</string>
+    <string name="go">Go</string>
+    <string name="https">https://</string>
 </resources>
